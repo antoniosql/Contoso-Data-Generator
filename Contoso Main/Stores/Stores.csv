@@ -16,24 +16,24 @@ StoreKey,StoreCode,Country,State,Name,SquareMeters,OpenDate,CloseDate,Status
 110,11,Canada,Yukon,Contoso Store Yukon,1210,6/3/2009,5/5/2015,Closed
 120,12,France,Basse-Normandie,Contoso Store Basse-Normandie,350,6/6/2012,,
 130,13,France,Corse,Contoso Store Corse,245,6/7/2013,,
-140,14,France,Franche-Comté,Contoso Store Franche-Comté,350,12/15/2009,,
-150,15,France,La Réunion,Contoso Store La Réunion,400,1/1/2015,,
+140,14,France,Franche-Comtï¿½,Contoso Store Franche-Comtï¿½,350,12/15/2009,,
+150,15,France,La Rï¿½union,Contoso Store La Rï¿½union,400,1/1/2015,,
 160,16,France,Limousin,Contoso Store Limousin,385,6/3/2010,,
 170,17,France,Martinique,Contoso Store Martinique,350,7/8/2007,,
 180,18,France,Mayotte,Contoso Store Mayotte,310,8/8/2012,,
 190,19,Germany,Berlin,Contoso Store Berlin,1295,4/4/2015,,
 200,20,Germany,Brandenburg,Contoso Store Brandenburg,1715,12/15/2012,8/8/2019,Closed
 210,21,Germany,Freie Hansestadt Bremen,Contoso Store Freie Hansestadt Bremen,560,6/3/2018,,
-220,22,Germany,Freistaat Thüringen,Contoso Store Freistaat Thüringen,2000,3/6/2008,,
+220,22,Germany,Freistaat Thï¿½ringen,Contoso Store Freistaat Thï¿½ringen,2000,3/6/2008,,
 230,23,Germany,Hamburg,Contoso Store Hamburg,1365,1/1/2010,,
 240,24,Germany,Hessen,Contoso Store Hessen,1855,12/15/2012,,
 250,25,Germany,Mecklenburg-Vorpommern,Contoso Store Mecklenburg-Vorpommern,1610,1/1/2010,4/4/2015,Restructured
 255,25,Germany,Mecklenburg-Vorpommern,Contoso Store Mecklenburg-Vorpommern,2800,8/8/2015,,
 260,26,Germany,Saarland,Contoso Store Saarland,350,3/5/2019,,
 270,27,Germany,Sachsen-Anhalt,Contoso Store Sachsen-Anhalt,2000,8/8/2008,,
-280,28,Italy,Caltanissetta,Contoso Store Caltanissetta,1200,12/15/2012,8/3/2017,Closed
-290,29,Italy,Enna,Contoso Store Enna,1000,1/1/2008,,
-300,30,Italy,Pesaro,Contoso Store Pesaro,2100,1/12/2008,,
+280,28,Spain,Madrid,Contoso Store Madrid,1200,12/15/2012,8/3/2017,Closed
+290,29,Spain,Lugo,Contoso Store Lugo,1000,1/1/2008,,
+300,30,Spain,CoruÃ±a,Contoso Store CoruÃ±a,2100,1/12/2008,,
 310,31,Netherlands,Drenthe,Contoso Store Drenthe,1085,1/7/2012,,
 320,32,Netherlands,Flevoland,Contoso Store Flevoland,910,1/1/2010,,
 330,33,Netherlands,Friesland,Contoso Store Friesland,1540,12/9/2015,,
